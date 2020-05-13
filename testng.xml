@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Bhawna Khunger/MavenJava">
+        <classes>
+            <class name="com.company.AppiumTest">
+                <methods>
+                    <include name="androidapps"/>
+                    <include name="IOSapps"/>
+                </methods>
+            </class>
+            <class name="com.company.SeleniumTest">
+                <methods>
+                    <include name="browserannotation"/>
+                    <include name="elementsearch"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

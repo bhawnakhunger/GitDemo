@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-04T23:33:39 IST" name="All Test Suite" finished-at="2020-04-04T23:33:39 IST" duration-ms="62">
+    <groups>
+    </groups>
+    <test started-at="2020-04-04T23:33:39 IST" name="C:/Users/Bhawna Khunger/MavenJava" finished-at="2020-04-04T23:33:39 IST" duration-ms="62">
+      <class name="com.company.RestAPITest">
+        <test-method signature="Postjira()[pri:0, instance:com.company.RestAPITest@7c9d8e2]" started-at="2020-04-04T23:33:39 IST" name="Postjira" finished-at="2020-04-04T23:33:39 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Postjira -->
+        <test-method signature="afterJira()[pri:0, instance:com.company.RestAPITest@7c9d8e2]" started-at="2020-04-04T23:33:39 IST" name="afterJira" finished-at="2020-04-04T23:33:39 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterJira -->
+      </class> <!-- com.company.RestAPITest -->
+      <class name="com.company.AppiumTest">
+        <test-method signature="androidapps()[pri:0, instance:com.company.AppiumTest@70325e14]" started-at="2020-04-04T23:33:39 IST" name="androidapps" finished-at="2020-04-04T23:33:39 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- androidapps -->
+        <test-method signature="IOSapps()[pri:0, instance:com.company.AppiumTest@70325e14]" started-at="2020-04-04T23:33:39 IST" name="IOSapps" finished-at="2020-04-04T23:33:39 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSapps -->
+      </class> <!-- com.company.AppiumTest -->
+      <class name="com.company.SeleniumTest">
+        <test-method signature="browserannotation()[pri:0, instance:com.company.SeleniumTest@37ceb1df]" started-at="2020-04-04T23:33:39 IST" name="browserannotation" finished-at="2020-04-04T23:33:39 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserannotation -->
+        <test-method signature="elementsearch()[pri:0, instance:com.company.SeleniumTest@37ceb1df]" started-at="2020-04-04T23:33:39 IST" name="elementsearch" finished-at="2020-04-04T23:33:39 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsearch -->
+      </class> <!-- com.company.SeleniumTest -->
+    </test> <!-- C:/Users/Bhawna Khunger/MavenJava -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
