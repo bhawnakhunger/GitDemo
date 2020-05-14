@@ -13,5 +13,7 @@ public class RestAPITest {
     @Test
     public void afterJira(){
         System.out.println("afterjira");
+        System.out.println("afterjira2");
+        System.out.println("afterjira"3);
     }
 }
