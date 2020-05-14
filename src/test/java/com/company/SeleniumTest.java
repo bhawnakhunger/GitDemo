@@ -13,4 +13,8 @@ public class SeleniumTest {
     public void elementsearch(){
         System.out.println("Elementsearch");
     }
+    @Test
+    public void elementsearch1(){
+        System.out.println("Elementsearch1");
+    }
 }
